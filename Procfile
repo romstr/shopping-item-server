@@ -1,0 +1,1 @@
+web: build/install/shopping-server/bin/shopping-server
